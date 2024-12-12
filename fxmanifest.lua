@@ -21,5 +21,4 @@ server_scripts {
 
 dependencies {
     'rsg-core',
-    'ox_lib',
 }
